@@ -6,6 +6,29 @@
 
 **Phone:** +7-926-321-12-00  
 **E-mail:** jenyadio@gmail.com  
-**Telegram:** @jenyadio  
+**Telegram and Discord:** @jenyadio  
 [LinkedIn](https://www.linkedin.com/in/evgeniya-yatsenko-839731a2/)
+***
+## **Work experience**:
+### Web-publisher at Kaspersky
+_August'22 - February'23_  
+* Worked with company's CMS-system, used HTML, CSS and JS editing Kaspersky product sites.
+* Assisted in writing auto-tests from scratch in Typescript and Playwright for testing company's CMS-system.
+* Worked in an agile environment with weekly stand-ups, kept track of bugs in GitHub projects, familiar with Confluence.  
+****
+## **Projects and test tasks**:
+
+[Finance manager](https://github.com/Jenyadio/bhj-diploma)  
+As a part of studying process in Netology I implemented JS logic in a financial management application. I developed an API for interacting with the backend, user interface, API interaction with the user interface (such as registration on the service, user authorization/logout, creation/deletion of accounts, creation/deletion of transactions etc).
+
+To see the project clone the repository, then do _npm install_ and _npm run start_.
+
+[Personal dashboard](https://jenyadio-momentum.netlify.app/)  
+You can use this app as a background for your desktop. It helps you to stay focused, organized and motivated (idea is taken from Momentum Chrome extension).
+
+App gets weather and background data from API (you can choose the source and tag for background), every element can be hidden and all the changed data are saved in localStorage. 
+
+[Kaspersky test](https://github.com/Jenyadio/Kaspersky-test)  
+I made an adaptive block for desktop, tablet and mobile according to the Figma layout. Different JS logic was added for each group when scrolling.
+
 
