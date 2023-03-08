@@ -30,5 +30,21 @@ App gets weather and background data from API (you can choose the source and tag
 
 [Kaspersky test](https://github.com/Jenyadio/Kaspersky-test)  
 I made an adaptive block for desktop, tablet and mobile according to the Figma layout. Different JS logic was added for each group when scrolling.
+***
+## **Skills**:
+* HTML5, CSS3  
+* JavaScript  
+* Git
+* Node.js
+* Jest
+* Webpack
+* React (in process)
+* Typescript (basics)
+* Adobe Photoshop, Figma (basics)
+***
+## **Education**:
 
+* Web-development for begginers: HTML and CSS (Stepik.org) (January 2021 finished)
+* Frontend web-development Course from Netology educational platform (December 2022 finished)
+* RS School's Course «JavaScript/Front-end. Stage 1» (in progress)
 
