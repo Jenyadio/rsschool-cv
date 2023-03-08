@@ -31,6 +31,15 @@ App gets weather and background data from API (you can choose the source and tag
 [Kaspersky test](https://github.com/Jenyadio/Kaspersky-test)  
 I made an adaptive block for desktop, tablet and mobile according to the Figma layout. Different JS logic was added for each group when scrolling.
 ***
+## **Code example**:  
+**Bit Counting from Codewars:** _Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative._  
+
+```
+let countBits = function(n) { 
+    return n.toString(2).split("").map(Number).reduce((acc, item) => acc + item);
+};
+```
+***
 ## **Skills**:
 * HTML5, CSS3  
 * JavaScript  
@@ -47,4 +56,12 @@ I made an adaptive block for desktop, tablet and mobile according to the Figma l
 * Web-development for begginers: HTML and CSS (Stepik.org) (January 2021 finished)
 * Frontend web-development Course from Netology educational platform (December 2022 finished)
 * RS School's Course «JavaScript/Front-end. Stage 1» (in progress)
+***
+## **Languages**:
+
+* **Russian** - native
+* **Japanese** - advanced (JLPT certificate N1)
+* **English** - advanced (C1) (according to the online test at [EfSet](www.efset.org));
+
+![English scores](/img/English%20score.png)
 
