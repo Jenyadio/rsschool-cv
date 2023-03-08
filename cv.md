@@ -63,5 +63,4 @@ let countBits = function(n) {
 * **Japanese** - advanced (JLPT certificate N1)
 * **English** - advanced (C1) (according to the online test at [EfSet](www.efset.org));
 
-![English scores](/img/English%20score.png)
-
+![English scores](/img/English_score.png)
