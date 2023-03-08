@@ -1,1 +1,1 @@
-[Link to CV](https://jenyadio.github.io/rsschool-cv/cv)
+[Link to CV](https://jenyadio.github.io/rsschool-cv/)
