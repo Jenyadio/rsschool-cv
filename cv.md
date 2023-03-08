@@ -7,7 +7,8 @@
 **Phone:** +7-926-321-12-00  
 **E-mail:** jenyadio@gmail.com  
 **Telegram and Discord:** @jenyadio  
-[LinkedIn](https://www.linkedin.com/in/evgeniya-yatsenko-839731a2/)
+[LinkedIn](https://www.linkedin.com/in/evgeniya-yatsenko-839731a2/)  
+
 ***
 ## **Work experience**:
 ### Web-publisher at Kaspersky
@@ -15,7 +16,8 @@ _August'22 - February'23_
 * Worked with company's CMS-system, used HTML, CSS and JS editing Kaspersky product sites.
 * Assisted in writing auto-tests from scratch in Typescript and Playwright for testing company's CMS-system.
 * Worked in an agile environment with weekly stand-ups, kept track of bugs in GitHub projects, familiar with Confluence.  
-****
+
+****  
 ## **Projects and test tasks**:
 
 [Finance manager](https://github.com/Jenyadio/bhj-diploma)  
@@ -29,8 +31,9 @@ You can use this app as a background for your desktop. It helps you to stay focu
 App gets weather and background data from API (you can choose the source and tag for background), every element can be hidden and all the changed data are saved in localStorage. 
 
 [Kaspersky test](https://github.com/Jenyadio/Kaspersky-test)  
-I made an adaptive block for desktop, tablet and mobile according to the Figma layout. Different JS logic was added for each group when scrolling.
-***
+I made an adaptive block for desktop, tablet and mobile according to the Figma layout. Different JS logic was added for each group when scrolling.  
+
+****
 ## **Code example**:  
 **Bit Counting from Codewars:** _Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative._  
 
@@ -38,7 +41,8 @@ I made an adaptive block for desktop, tablet and mobile according to the Figma l
 let countBits = function(n) { 
     return n.toString(2).split("").map(Number).reduce((acc, item) => acc + item);
 };
-```
+```  
+
 ***
 ## **Skills**:
 * HTML5, CSS3  
@@ -49,14 +53,16 @@ let countBits = function(n) {
 * Webpack
 * React (in process)
 * Typescript (basics)
-* Adobe Photoshop, Figma (basics)
-***
+* Adobe Photoshop, Figma (basics)  
+
+****
 ## **Education**:
 
 * Web-development for begginers: HTML and CSS (Stepik.org) (January 2021 finished)
 * Frontend web-development Course from Netology educational platform (December 2022 finished)
-* RS School's Course «JavaScript/Front-end. Stage 1» (in progress)
-***
+* RS School's Course «JavaScript/Front-end. Stage 1» (in progress)  
+
+****
 ## **Languages**:
 
 * **Russian** - native
